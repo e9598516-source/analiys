@@ -23,5 +23,5 @@ This project analyzes student data using Python.
 - Analyzing Data
 
 # How to Run
-
-``be``python main.py
+bash```
+`python main.py
