@@ -24,4 +24,4 @@ This project analyzes student data using Python.
 
 # How to Run
 bash```
-python main.py
+python projecttqm.ipynb
