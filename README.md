@@ -3,17 +3,16 @@
 ## About
 This project analyzes student data using Python.
 
+## Technologies
+
+- Python
+
+
 ## Libraries
 - NumPy
 - Pandas
 - Matplotlib
 
-## Technologies
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
 
 ## Features
 
